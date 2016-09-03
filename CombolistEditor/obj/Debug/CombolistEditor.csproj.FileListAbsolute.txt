@@ -1,0 +1,6 @@
+C:\Users\Daniel\Google Drive\Code\C#\CombolistEditor\CombolistEditor\bin\Debug\CombolistEditor.exe.config
+C:\Users\Daniel\Google Drive\Code\C#\CombolistEditor\CombolistEditor\bin\Debug\CombolistEditor.exe
+C:\Users\Daniel\Google Drive\Code\C#\CombolistEditor\CombolistEditor\bin\Debug\CombolistEditor.pdb
+C:\Users\Daniel\Google Drive\Code\C#\CombolistEditor\CombolistEditor\obj\Debug\CombolistEditor.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Google Drive\Code\C#\CombolistEditor\CombolistEditor\obj\Debug\CombolistEditor.exe
+C:\Users\Daniel\Google Drive\Code\C#\CombolistEditor\CombolistEditor\obj\Debug\CombolistEditor.pdb
